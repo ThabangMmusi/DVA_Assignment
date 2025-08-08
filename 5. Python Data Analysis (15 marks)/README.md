@@ -1,4 +1,4 @@
-# 5. Python/Excel Data Analysis (15 marks)
-- Clean and transform data
-- Apply conditional formatting
-- Create charts and summarise findings
+# 5. Python Data Analysis (15 marks)
+1. Clean and transform data
+1. Apply conditional formatting
+1. Create charts and summarise findings
