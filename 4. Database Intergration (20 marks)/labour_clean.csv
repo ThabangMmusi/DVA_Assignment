@@ -1,36 +1,36 @@
-TIME_PERIOD,REF_AREA_LABEL,INDICATOR_LABEL,SEX_LABEL,AGE_LABEL,OBS_VALUE
-1990,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,62.569
-1991,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,62.492
-1992,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,62.509
-1993,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,62.394
-1994,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,62.371
-1995,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,62.481
-1996,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,62.497
-1997,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,62.393
-1998,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,62.131
-1999,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,61.84
-2000,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,61.534
-2001,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,61.215
-2002,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,60.892
-2003,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,60.587
-2004,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,60.325
-2005,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,60.117
-2006,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,59.948
-2007,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,59.802
-2008,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,59.688
-2009,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,58.059
-2010,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,54.171
-2011,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,56.169
-2012,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,55.959
-2013,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,56.219
-2014,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,56.093
-2015,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,57.693
-2016,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,57.965
-2017,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,58.775
-2018,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,58.131
-2019,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,58.327
-2020,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,54.701
-2021,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,55.76
-2022,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,56.942
-2023,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,58.528
-2024,South Africa,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,58.529
+Year,Indicator,Sex,Age,Value
+1990,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,62.569
+1991,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,62.492
+1992,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,62.509
+1993,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,62.394
+1994,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,62.371
+1995,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,62.481
+1996,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,62.497
+1997,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,62.393
+1998,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,62.131
+1999,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,61.84
+2000,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,61.534
+2001,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,61.215
+2002,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,60.892
+2003,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,60.587
+2004,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,60.325
+2005,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,60.117
+2006,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,59.948
+2007,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,59.802
+2008,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,59.688
+2009,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,58.059
+2010,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,54.171
+2011,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,56.169
+2012,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,55.959
+2013,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,56.219
+2014,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,56.093
+2015,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,57.693
+2016,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,57.965
+2017,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,58.775
+2018,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,58.131
+2019,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,58.327
+2020,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,54.701
+2021,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,55.76
+2022,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,56.942
+2023,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,58.528
+2024,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Total,All age ranges or no breakdown by age,58.529

@@ -1,35 +1,36 @@
 # Numerical Analysis
 
-## What is Numerical Analysis?
+## Overview
+This section builds on the data preparation phase and applies mathematical and statistical techniques to analyze the South African education and labour datasets.
 
-Refers to using mathematical techniques and algorithms to analyze, interpret, and extract insights from numerical.
+## Steps Performed
 
-It involves working with data that has numbers as opposed to Categorical / text data such as e.g. Names, gender, yes/ no answer and many more.
+1. **Load and Prepare Data**
+   - Imported pandas, numpy, matplotlib, seaborn.
+   - Loaded education and labour datasets.
+   - Filtered for South Africa and selected relevant columns (Year, Indicator, Sex, Age, Value).
 
-An example of the numerical data used in Numerical analysis is Age, prices.
+2. **Descriptive Statistics**
+   - Calculated mean, median, mode, min, max, and standard deviation for key numerical columns.
+   - Compared statistics across different groups (by Sex, Age, Indicator).
 
-In Numerical analysis these numbers are used to perform:
+3. **Grouped Analysis**
+   - Grouped data by Sex and Age to analyze differences and trends.
 
-- **Descriptive Statistics**  
-  Which Summarizes and describes numerical data e.g. mean, mode, max, min, etc.
+4. **Year Matching and Correlation**
+   - Merged datasets by Year to enable direct comparison.
+   - Calculated correlation between education attainment and labour force participation (yearly averages).
 
-- **Inferential Statistics**  
-  Makes predictions or inferences about a population based on a sample.
+5. **Visualization**
+   - Plotted histograms for distributions.
+   - Created scatter plots for relationships.
+   - Used boxplots to compare groups.
 
-- **Numerical Computations**  
-  Solving mathematical models using: Interpolation, Numerical integration, Root-finding algorithms, Matrix operations.
+## Why Year Matching?
+Year matching is performed in this deliverable to enable meaningful comparison and correlation analysis between the two datasets. This allows us to explore relationships and trends over time.
 
-- **Regression Analysis**  
-  Used to model the relationship between variables.
-
-- **Data Cleaning and Transformation**  
-  Handling: Missing values, outliers e.g. Filling in missing exam scores with the mean or median.
-
-- **Correlation and Covariance**  
-  Measures the relationship between numerical variables:  
-  Correlation: Strength and direction (e.g., Pearson correlation)  
-  Covariance: Direction of relationship.  
-  Example: Correlation between number of study hours and performance.
+## Next Steps
+- Use insights from numerical analysis for further statistical modeling or database integration in subsequent deliverables.
 
 ---
 

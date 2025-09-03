@@ -1,14 +1,14 @@
-TIME_PERIOD,REF_AREA_LABEL,INDICATOR_LABEL_edu,SEX_LABEL,AGE_LABEL,OBS_VALUE_edu,INDICATOR_LABEL_labour,OBS_VALUE_labour
-2010,South Africa,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Total,All age ranges or no breakdown by age,4.83927631378174,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",54.171
-2011,South Africa,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Total,All age ranges or no breakdown by age,5.18007898330688,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",56.169
-2013,South Africa,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Total,All age ranges or no breakdown by age,5.95415067672729,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",56.219
-2014,South Africa,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Total,All age ranges or no breakdown by age,6.03802108764648,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",56.093
-2015,South Africa,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Total,All age ranges or no breakdown by age,6.07000017166138,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",57.693
-2016,South Africa,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Total,All age ranges or no breakdown by age,8.25026321411133,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",57.965
-2017,South Africa,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Total,All age ranges or no breakdown by age,8.25,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",58.775
-2018,South Africa,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Total,All age ranges or no breakdown by age,11.1089563369751,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",58.131
-2019,South Africa,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Total,All age ranges or no breakdown by age,8.02000045776367,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",58.327
-2020,South Africa,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Total,All age ranges or no breakdown by age,7.68192005157471,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",54.701
-2021,South Africa,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Total,All age ranges or no breakdown by age,12.960000038147,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",55.76
-2022,South Africa,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Total,All age ranges or no breakdown by age,11.4343910217285,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",56.942
-2023,South Africa,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Total,All age ranges or no breakdown by age,12.2000169754028,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",58.528
+Year,Education_Value,Labour_Value
+2010,4.83927631378174,54.171
+2011,5.18007898330688,56.169
+2013,5.95415067672729,56.219
+2014,6.03802108764648,56.093
+2015,6.07000017166138,57.693
+2016,8.25026321411133,57.965
+2017,8.25,58.775
+2018,11.1089563369751,58.131
+2019,8.02000045776367,58.327
+2020,7.68192005157471,54.701
+2021,12.960000038147,55.76
+2022,11.4343910217285,56.942
+2023,12.2000169754028,58.528
