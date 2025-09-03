@@ -1,0 +1,34 @@
+--- Education Descriptive Statistics ---
+count    13.000000
+mean      8.306698
+std       2.775010
+min       4.839276
+25%       6.038021
+50%       8.020000
+75%      11.108956
+max      12.960000
+Name: Value, dtype: float64
+Mean: 8.306698102217451, Median: 8.02000045776367, Mode: 4.83927631378174, Std: 2.77500992615908
+
+--- Labour Descriptive Statistics ---
+count    35.000000
+mean     59.423029
+std       2.574678
+min      54.171000
+25%      57.829000
+50%      59.802000
+75%      61.985500
+max      62.569000
+Name: Value, dtype: float64
+Mean: 59.423028571428574, Median: 59.802, Mode: 54.171, Std: 2.5746783635301425
+
+--- Regression Results ---
+Slope: 0.2036640196053644
+Intercept: 55.190839859469534
+R-squared: 0.14350101186665967
+P-value: 0.20179959173264367
+Standard Error: 0.15002164173464497
+
+--- T-test between Age 15-24 and 25-34 (Education Values) ---
+T-statistic: nan
+P-value: nan

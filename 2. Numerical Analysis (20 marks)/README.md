@@ -22,7 +22,7 @@ This section builds on the data preparation phase and applies mathematical and s
    - Calculated correlation between education attainment and labour force participation (yearly averages).
 
 5. **Visualization**
-   - Plotted histograms for distributions.
+   - Plotted histograms for distributiongits.
    - Created scatter plots for relationships.
    - Used boxplots to compare groups.
 
