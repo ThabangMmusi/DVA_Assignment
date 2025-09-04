@@ -1,0 +1,22 @@
+Cleaned CSV files exported: edu_clean.csv, labour_clean.csv, merged.csv
+Education Clean sample:
+   Year                                          Indicator     Value
+0  2010  Educational attainment, at least Bachelor's or...  4.839276
+1  2011  Educational attainment, at least Bachelor's or...  5.180079
+2  2013  Educational attainment, at least Bachelor's or...  5.954151
+3  2014  Educational attainment, at least Bachelor's or...  6.038021
+4  2015  Educational attainment, at least Bachelor's or...  6.070000
+Labour Clean sample:
+   Year                                          Indicator   Value
+0  1990  Labor force participation rate, total (% of to...  62.569
+1  1991  Labor force participation rate, total (% of to...  62.492
+2  1992  Labor force participation rate, total (% of to...  62.509
+3  1993  Labor force participation rate, total (% of to...  62.394
+4  1994  Labor force participation rate, total (% of to...  62.371
+Merged sample:
+   Year  Education_Value  Labour_Value
+0  2010         4.839276        54.171
+1  2011         5.180079        56.169
+2  2013         5.954151        56.219
+3  2014         6.038021        56.093
+4  2015         6.070000        57.693

@@ -1,0 +1,138 @@
+--- Education Data Info ---
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1332 entries, 0 to 1331
+Data columns (total 45 columns):
+ #   Column                  Non-Null Count  Dtype  
+---  ------                  --------------  -----  
+ 0   STRUCTURE               1332 non-null   object 
+ 1   STRUCTURE_ID            1332 non-null   object 
+ 2   ACTION                  1332 non-null   object 
+ 3   FREQ                    1332 non-null   object 
+ 4   FREQ_LABEL              1332 non-null   object 
+ 5   REF_AREA                1332 non-null   object 
+ 6   REF_AREA_LABEL          1332 non-null   object 
+ 7   INDICATOR               1332 non-null   object 
+ 8   INDICATOR_LABEL         1332 non-null   object 
+ 9   SEX                     1332 non-null   object 
+ 10  SEX_LABEL               1332 non-null   object 
+ 11  AGE                     1332 non-null   object 
+ 12  AGE_LABEL               1332 non-null   object 
+ 13  URBANISATION            1332 non-null   object 
+ 14  URBANISATION_LABEL      1332 non-null   object 
+ 15  UNIT_MEASURE            1332 non-null   object 
+ 16  UNIT_MEASURE_LABEL      1332 non-null   object 
+ 17  COMP_BREAKDOWN_1        1332 non-null   object 
+ 18  COMP_BREAKDOWN_1_LABEL  1332 non-null   object 
+ 19  COMP_BREAKDOWN_2        1332 non-null   object 
+ 20  COMP_BREAKDOWN_2_LABEL  1332 non-null   object 
+ 21  COMP_BREAKDOWN_3        1332 non-null   object 
+ 22  COMP_BREAKDOWN_3_LABEL  1332 non-null   object 
+ 23  TIME_PERIOD             1332 non-null   int64  
+ 24  OBS_VALUE               1332 non-null   float64
+ 25  AGG_METHOD              1332 non-null   object 
+ 26  AGG_METHOD_LABEL        1332 non-null   object 
+ 27  DECIMALS                1332 non-null   int64  
+ 28  DECIMALS_LABEL          1332 non-null   object 
+ 29  DATABASE_ID             1332 non-null   object 
+ 30  DATABASE_ID_LABEL       1332 non-null   object 
+ 31  COMMENT_TS              1332 non-null   object 
+ 32  UNIT_MULT               1332 non-null   int64  
+ 33  UNIT_MULT_LABEL         1332 non-null   object 
+ 34  DATA_SOURCE             1332 non-null   object 
+ 35  DATA_SOURCE_LABEL       1332 non-null   object 
+ 36  UNIT_TYPE               1332 non-null   object 
+ 37  UNIT_TYPE_LABEL         1332 non-null   object 
+ 38  TIME_FORMAT             1332 non-null   object 
+ 39  TIME_FORMAT_LABEL       1332 non-null   object 
+ 40  COMMENT_OBS             0 non-null      float64
+ 41  OBS_STATUS              1332 non-null   object 
+ 42  OBS_STATUS_LABEL        1332 non-null   object 
+ 43  OBS_CONF                1332 non-null   object 
+ 44  OBS_CONF_LABEL          1332 non-null   object 
+dtypes: float64(2), int64(3), object(40)
+memory usage: 468.4+ KB
+--- Labour Data Info ---
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 8216 entries, 0 to 8215
+Data columns (total 45 columns):
+ #   Column                  Non-Null Count  Dtype  
+---  ------                  --------------  -----  
+ 0   STRUCTURE               8216 non-null   object 
+ 1   STRUCTURE_ID            8216 non-null   object 
+ 2   ACTION                  8216 non-null   object 
+ 3   FREQ                    8216 non-null   object 
+ 4   FREQ_LABEL              8216 non-null   object 
+ 5   REF_AREA                8216 non-null   object 
+ 6   REF_AREA_LABEL          8216 non-null   object 
+ 7   INDICATOR               8216 non-null   object 
+ 8   INDICATOR_LABEL         8216 non-null   object 
+ 9   SEX                     8216 non-null   object 
+ 10  SEX_LABEL               8216 non-null   object 
+ 11  AGE                     8216 non-null   object 
+ 12  AGE_LABEL               8216 non-null   object 
+ 13  URBANISATION            8216 non-null   object 
+ 14  URBANISATION_LABEL      8216 non-null   object 
+ 15  UNIT_MEASURE            8216 non-null   object 
+ 16  UNIT_MEASURE_LABEL      8216 non-null   object 
+ 17  COMP_BREAKDOWN_1        8216 non-null   object 
+ 18  COMP_BREAKDOWN_1_LABEL  8216 non-null   object 
+ 19  COMP_BREAKDOWN_2        8216 non-null   object 
+ 20  COMP_BREAKDOWN_2_LABEL  8216 non-null   object 
+ 21  COMP_BREAKDOWN_3        8216 non-null   object 
+ 22  COMP_BREAKDOWN_3_LABEL  8216 non-null   object 
+ 23  TIME_PERIOD             8216 non-null   int64  
+ 24  OBS_VALUE               8216 non-null   float64
+ 25  AGG_METHOD              8216 non-null   object 
+ 26  AGG_METHOD_LABEL        8216 non-null   object 
+ 27  DECIMALS                8216 non-null   int64  
+ 28  DECIMALS_LABEL          8216 non-null   object 
+ 29  DATABASE_ID             8216 non-null   object 
+ 30  DATABASE_ID_LABEL       8216 non-null   object 
+ 31  COMMENT_TS              8216 non-null   object 
+ 32  UNIT_MULT               8216 non-null   int64  
+ 33  UNIT_MULT_LABEL         8216 non-null   object 
+ 34  DATA_SOURCE             8216 non-null   object 
+ 35  DATA_SOURCE_LABEL       8216 non-null   object 
+ 36  UNIT_TYPE               8216 non-null   object 
+ 37  UNIT_TYPE_LABEL         8216 non-null   object 
+ 38  TIME_FORMAT             8216 non-null   object 
+ 39  TIME_FORMAT_LABEL       8216 non-null   object 
+ 40  COMMENT_OBS             0 non-null      float64
+ 41  OBS_STATUS              8216 non-null   object 
+ 42  OBS_STATUS_LABEL        8216 non-null   object 
+ 43  OBS_CONF                8216 non-null   object 
+ 44  OBS_CONF_LABEL          8216 non-null   object 
+dtypes: float64(2), int64(3), object(40)
+memory usage: 2.8+ MB
+Found 13 rows for South Africa in the education dataset.
+Found 35 rows for South Africa in the labour dataset.
+--- Checking for missing values in cleaned Education data ---
+Year         0
+Indicator    0
+Value        0
+dtype: int64
+--- Checking for missing values in cleaned Labour data ---
+Year         0
+Indicator    0
+Value        0
+dtype: int64
+--- Descriptive Statistics for Education Data (South Africa) ---
+              Year      Value
+count    13.000000  13.000000
+mean   2016.846154   8.306698
+std       4.140172   2.775010
+min    2010.000000   4.839276
+25%    2014.000000   6.038021
+50%    2017.000000   8.020000
+75%    2020.000000  11.108956
+max    2023.000000  12.960000
+--- Descriptive Statistics for Labour Data (South Africa) ---
+              Year      Value
+count    35.000000  35.000000
+mean   2007.000000  59.423029
+std      10.246951   2.574678
+min    1990.000000  54.171000
+25%    1998.500000  57.829000
+50%    2007.000000  59.802000
+75%    2015.500000  61.985500
+max    2024.000000  62.569000
